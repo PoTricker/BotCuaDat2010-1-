@@ -5,16 +5,25 @@
     "autoCreateDB": true,
     "allowInbox": true,
     "autoClean": false,
-    "commandDisabled": [],
+    "commandDisabled": [
+        ",.js",
+        ",.js",
+        "thanos.js",
+        "thanos.js"
+    ],
     "eventDisabled": [],
-    "EMAIL": "hentai56712@gmail.com",
+    "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Pé Pò",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100073176045977",
-        "573331286"
+        "100028135637328",
+        "540890842",
+        "100055519394462",
+        "100050761189480",
+        "100073046405153",
+        "100010830753375"
     ],
     "DATABASE": {
         "sqlite": {
@@ -27,48 +36,29 @@
         "listenEvents": true,
         "pauseLog": true,
         "logLevel": "error",
-        "selfListen": true,
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36"
+        "selfListen": true
     },
     "version": "1.2.9",
-    "nameJP": {
-        "APIKEY": "mi451266190"
-    },
-    "caesar": {
-        "caeserPassword": "266303"
-    },
-    "cave": {
-        "cooldownTime": 1000000
-    },
     "checktt": {
         "maxColumn": 10
-    },
-    "covid": {
-        "APIKEY": ""
     },
     "daily": {
         "cooldownTime": 43200000,
         "rewardCoin": 200
     },
-    "hitbutt": {
-        "APIKEY": ""
-    },
-    "img": {
-        "APIKEY": ""
-    },
-    "linkword": {
-        "APIKEY": ""
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 10
     },
     "math": {
         "WOLFRAM": "T8J8YV-H265UQ762K"
     },
-    "menu": {
-        "autoUnsend": true,
-        "delayUnsend": 60
+    "rank": {
+        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
     },
     "rankup": {
         "autoUnsend": true,
-        "unsendMessageAfter": 5
+        "unsendMessageAfter": 10
     },
     "rname": {
         "APIKEY": "mi451266190"
@@ -76,33 +66,11 @@
     "sauce": {
         "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
     },
-    "shortlink": {
-        "bitlyAPI": ""
-    },
-    "sim": {
-        "APIKEY": "Meew_hTrAe8Ipec8EsSRsQXoMO7v0XaPgY0"
-    },
     "sing": {
-        "YOUTUBE_API": "AIzaSyBJl0esWNv12ukwIjSARrqof0zI2XXt3Y4",
-        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
-    },
-    "slap": {
-        "APIKEY": ""
-    },
-    "sortword": {
-        "APIKEY": ""
-    },
-    "surprise": {
-        "log": true,
-        "out": "",
-        "kickAll": "",
-        "delThread": ""
-    },
-    "teach": {
-        "APIKEY": ""
+        "YOUTUBE_API": "AIzaSyBdBbY75GqbVZhM4c-gW8VX-aZfNyiGlwY"
     },
     "video": {
-        "YOUTUBE_API": "AIzaSyA7iJDD8jd7ItteGJddOBmolFrA-ZlYmtY"
+        "YOUTUBE_API": "AIzaSyBdBbY75GqbVZhM4c-gW8VX-aZfNyiGlwY"
     },
     "weather": {
         "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
@@ -115,7 +83,71 @@
         "sendNoti": true,
         "timeToUnsend": 10
     },
+    "ghep": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "info": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "sim": {
+        "APIKEY": "TEST2208"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "ghép": {
+        "cooldownTime": 300000
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
     "log": {
         "enable": true
+    },
+    "menu2": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "gif": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "yt": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "safety-check": {
+        "APIKEY": "AIzaSyAyPQHnnLU2S6Fqy2x6eZIyFOQGe6Xwiek"
+    },
+    "rot": {
+        "rot47Password": "266303"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "lamviec": {
+        "cooldownTime": 1200000
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "check": {
+        "maxColumn": 10
+    },
+    "ins": {
+        "APIKEY": "363c3550femsh00214fce452955ep118999jsnbcc085d4be5b"
+    },
+    "banner": {
+        "APIKEY": "ntkhang"
+    },
+    "banner2": {
+        "APIKEY": "ntkhang"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
     }
 }
